@@ -41,6 +41,7 @@ public class Objective9Lab5 {
         }
 
     }
+    kb.close();
 
   }
   public static void printMenu() {
